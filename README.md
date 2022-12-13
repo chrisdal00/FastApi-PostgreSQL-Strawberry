@@ -1,4 +1,4 @@
-# FastApi + PostgresSQL + Strawberry GraphQL
+# FastApi + PostgreSQL + Strawberry GraphQL
 This is a simple application that shows how to do crud operations with both api rest and graphql controller.
 The PostgresSQL database is wrapped into a docker container.
 
